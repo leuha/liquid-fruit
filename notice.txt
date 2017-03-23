@@ -1,2 +1,4 @@
 melon
 apple
+banana
+peach
