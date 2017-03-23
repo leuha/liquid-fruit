@@ -1,4 +1,2 @@
 coconut
-apple
-melon
 
